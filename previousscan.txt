@@ -1,0 +1,15 @@
+fritz.box (192.168.0.1)
+octopi-ddwrt.fritz.box (192.168.0.4)
+android-xoom.fritz.box (192.168.0.20)
+voip-regina.fritz.box (192.168.0.23)
+TV.fritz.box (192.168.0.25)
+ml-Aspire.fritz.box (192.168.0.26)
+octopi.fritz.box (192.168.0.27)
+voip-marcus.fritz.box (192.168.0.28)
+smarthome.fritz.box (192.168.0.36)
+android-bf8b5f8661a997e9.fritz.box (192.168.0.39)
+192.168.0.41 
+honor-5C.fritz.box (192.168.0.42)
+ESP-8019AC.fritz.box (192.168.0.46)
+192.168.0.54 
+ESP-D62D2A.fritz.box (192.168.0.74)
