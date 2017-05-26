@@ -6,7 +6,7 @@ nmap -sP -R --dns-servers 192.168.0.1 192.168.0.0/24 | egrep -o '([[:xdigit:]]{2
 NEWLIST=scan.txt
 
 # Einstellung für Pushbullet Dienst
-API="" #add your api here
+API="v1WevDuA2TPMImWjInVh6x7pOeLfrV8gFKujEZNaGfU6K" #add your api here
 IDEN="" #add your iden here
 
 #echo whitelist
